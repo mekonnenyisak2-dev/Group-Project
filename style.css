@@ -131,7 +131,7 @@ header {
 
 /* ========== HERO SECTION ========== */
 .hero {
-    background: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url('images/slider_1.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url('slider_1.jpg') center/cover no-repeat;
     min-height: 70vh;
     display: flex;
     align-items: center;
